@@ -1,7 +1,7 @@
 <h2 align="center"> Desenvolvedor Full-Stack! Seja Bem-Vindo(a)</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Me+chamo+Carlos+Eduardo!;Sou+Desenvolvedor+Full-Stack!;Bem+vindo%28a%29+ao+meu+perfil%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Me+chamo+Carlos+Eduardo!;Sou+Desenvolvedor+Full-Stack!;Bem+vindo%28a%29+ao+meu+perfil%21" alt="Typing SVG" />
 </p>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #56CAFC, #56CAFC, #91BCFF);" />
