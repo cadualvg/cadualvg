@@ -1,16 +1,54 @@
-## Hi there 👋
+<h2 align="center"> Desenvolvedor Full-Stack! Seja Bem-Vindo(a)</h2>
 
-<!--
-**cadualvg/cadualvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Carlos Eduardo!;Sou+Desenvolvedor+Full-Stack!;Bem-Vindo(a)+ao+meu+perfil!+" alt="Typing SVG" />
+</p>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #56CAFC, #56CAFC, #91BCFF);" />
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cadualvg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cadualvg&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif"  />
+
+###
+*(Scroll down for English version)*
+
+Me Chamo Carlos Eduardo Alvarenga Goes, tenho 21 anos, e sou natural de São Paulo - SP, Brasil. Concluí o ensino médio na ETEC de Itaquera, com Habilitação Técnica em Desenvolvimento de Sistemas. Atualmente curso Engenharia de Software. Sou apaixonado por tecnologia e estou na jornada para me tornar um Dev Full-Stack. 🤙🏾
+
+## 🖊️ Sobre Mim
+- Desenvolvedor Fullstack, com 21 anos, desenvolvendo habilidades em **frontend** e **backend**.
+- Atualmente focando meu aprendizado Front-end.
+- Estudando React.
+
+## 🛠️ Tecnologias e Ferramentas
+### Linguagens
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=000&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+
+---
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cadualvg/cadualvg/output/snake.svg" alt="Snake animation" />
+
+###
+
+## 📬 Conecte-se Comigo
+- **E-mail**: [cadualvg@gmail.com](cadualvg@gmail.com)  
+- **LinkedIn**: [Carlos Eduardo Alvarenga Goes](https://www.linkedin.com/in/l)  
+
