@@ -1,8 +1,9 @@
 <h2 align="center"> Desenvolvedor Full-Stack! Seja Bem-Vindo(a)</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Carlos Eduardo!;Sou+Desenvolvedor+Full-Stack!;Bem-Vindo(a)+ao+meu+perfil!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Olá!+Me+chamo+Carlos+Eduardo!;Sou+Desenvolvedor+Full-Stack!;Bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
+
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #56CAFC, #56CAFC, #91BCFF);" />
 
 ###
@@ -13,8 +14,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif"  />
 
 ###
 *(Scroll down for English version)*
