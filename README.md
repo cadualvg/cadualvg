@@ -39,13 +39,6 @@ Me Chamo Carlos Eduardo Alvarenga Goes, tenho 21 anos, e sou natural de São Pau
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 
 ---
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cadualvg/cadualvg/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 📬 Conecte-se Comigo
 - **E-mail**: [cadualvg@gmail.com](cadualvg@gmail.com)  
