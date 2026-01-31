@@ -22,7 +22,7 @@ Me Chamo Carlos Eduardo Alvarenga Goes, tenho 21 anos, e sou natural de São Pau
 
 ## 🖊️ Sobre Mim
 - Desenvolvedor Fullstack, com 21 anos, desenvolvendo habilidades em **frontend** e **backend**.
-- Atualmente focando meu aprendizado Front-end.
+- Atualmente focando meu aprendizado Back-end.
 - Estudando React.
 
 ## 🛠️ Tecnologias e Ferramentas
