@@ -31,10 +31,6 @@ Back-end em **Node.js + Express + MySQL** com regras de negócio de verdade — 
 
 `Node.js` `Express` `MySQL` `REST` `dotenv`
 
-### 💼 [Portfólio pessoal](https://github.com/cadualvg/portfolio-carlos)
-
-Site pessoal em HTML, CSS e JavaScript puro, sem framework.
-
 ---
 
 ## Stack
