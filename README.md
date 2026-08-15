@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full-Stack** · Node.js · JavaScript · Automações com n8n
 
-Sou **Gestor de Automações na Tráfego Business** (grupo **Company TB**), onde entrego landing pages, APIs e automações para clientes reais — com prazo, escopo definido e manutenção depois do deploy.
+Trabalho como **Gestor de Automação** numa agência de marketing, entregando landing pages, APIs e automações para clientes reais — com prazo, escopo definido e manutenção depois do deploy.
 
 📍 São Paulo, Brasil  ·  🎓 Eng. de Software (UNINTER) + ADS (Unicid)  ·  🏫 Técnico em Desenvolvimento de Sistemas (ETEC Itaquera)
 
